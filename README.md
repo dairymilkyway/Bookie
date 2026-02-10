@@ -1,4 +1,4 @@
-# Book Management System
+# Bookie
 
 A Laravel-based application for managing books in an educational environment with role-based access for teachers and students.
 
@@ -26,7 +26,7 @@ This Book Management System allows teachers to create and manage digital books, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/book-management-system.git
+git clone https://github.com/dairymilkyway/Bookie.git
 cd book-management-system
 ```
 
