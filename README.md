@@ -27,7 +27,6 @@ This Book Management System allows teachers to create and manage digital books, 
 1. Clone the repository:
 ```bash
 git clone https://github.com/dairymilkyway/Bookie.git
-cd book-management-system
 ```
 
 2. Install PHP dependencies:
